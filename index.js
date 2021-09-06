@@ -30,3 +30,4 @@ function countRest (text) {
 
   return limit - length;
 }
+
